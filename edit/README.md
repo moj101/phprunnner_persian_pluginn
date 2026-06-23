@@ -5,6 +5,12 @@ A production-ready Persian (Jalali) DatePicker UserControl for **PHPRunner** wit
 
 افزونه‌ای آماده استفاده در محیط عملیاتی برای **PHPRunner** جهت ورود تاریخ شمسی (جلالی) با تجربه کاربری بهبودیافته، مکان‌یابی هوشمند پنجره تقویم، امکان ورود دستی تاریخ، اعتبارسنجی، پشتیبانی از صفحه‌کلید، قابلیت تم‌پذیری و رفتار مناسب در موبایل.
 
+
+این کار مبتنی بر کار زیر گسترش داده شده است:
+Persian DatePicker
+
+Persian DatePicker is a plugin built by fhumanes. It is a versatile dates selector in Persian, which allows you to adjust to complex needs. It's based on http://babakhani.github.io/PersianWebToolkit/doc/index.html 
+
 ---
 
 ## Features | قابلیت‌ها
